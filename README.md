@@ -1,1 +1,1 @@
-"# Aplikasilaundry" 
+Ini adalah aplikasi laundry versi Cloud
